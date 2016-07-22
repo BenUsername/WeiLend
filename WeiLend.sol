@@ -1,4 +1,4 @@
-// WeiLend System
+// WeiLend System 
 // Start, lend, payout and return interest yield to funders
 // @creator of the original WeiFund code:
 // Nick Dodson <thenickdodson@gmail.com>
